@@ -20,10 +20,10 @@ d3.json(link2,function(response){
     })
 
     
-    // var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
+    var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
     // significant earthquakes in the last month
-    var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
+    // var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
 
     
 
@@ -32,7 +32,7 @@ d3.json(link2,function(response){
    
     function createCircleMarker(feature,latlng){
         let options = {
-            radius:feature.properties.mag*4,
+            radius:feature.properties.mag*2,
             fillColor: chooseColor(feature.properties.mag),
             color: "black",
             weight: 1,
@@ -126,7 +126,7 @@ d3.json(link2,function(response){
 
   }
 
-// using switch function to define magnitide legend
+// using switch function to define magnitide for legend
   function chooseColor(mag){
     switch(true){
         case (mag<1):
