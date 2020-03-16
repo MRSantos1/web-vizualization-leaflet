@@ -6,6 +6,8 @@ Earthquakes with higher magnitudes appear larger and darker in color.
 
 Popups provide additional information about the earthquake when a marker is clicked.Legends provide context for map data.
 
+------
+
 ## Summary:
 
 The United States Geological Survey (USGS) (https://www.usgs.gov/) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
