@@ -64,4 +64,3 @@ Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplate
 <b>E-mail: </b> robertomsreis@gmail.com
  
 <b>Twitter: </b> @robertomsreis
-
