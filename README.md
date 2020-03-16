@@ -1,4 +1,4 @@
-# Web Data Visualization using Leaflet
+# Web Data Visualization of Eathquakes using Leaflet
 
 Data markers reflect the magnitude of the earthquake in their size and color. 
 
