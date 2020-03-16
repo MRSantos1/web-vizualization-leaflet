@@ -1,6 +1,10 @@
 # Web Data Visualization using Leaflet
 
-Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.Popups provide additional information about the earthquake when a marker is clicked.Legends provide context for map data.
+Data markers reflect the magnitude of the earthquake in their size and color. 
+
+Earthquakes with higher magnitudes appear larger and darker in color.
+
+Popups provide additional information about the earthquake when a marker is clicked.Legends provide context for map data.
 
 ## Summary:
 
@@ -53,7 +57,7 @@ Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplate
 
 - - -
 
-
+#### Contact:
 <b>E-mail: </b> robertomsreis@gmail.com
  
 <b>Twitter: </b> @robertomsreis
