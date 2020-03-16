@@ -8,7 +8,7 @@ Popups provide additional information about the earthquake when a marker is clic
 
 ## Summary:
 
-The United States Geological Survey (USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
+The United States Geological Survey (USGS) (https://www.usgs.gov/) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
 Here, I build a set of tools that will allow visualization of USGS earthquake data. USGS collects a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. 
 
