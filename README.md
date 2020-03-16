@@ -31,13 +31,22 @@ The steps are describe below.
 
    Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+    - Data markers reflects the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
 
-   * Include popups that provide additional information about the earthquake when a marker is clicked.
+    - Popups provide additional information about the earthquake when a marker is clicked.
+    
+    - Legend provide more context for the map data.
+    
+    - The final visualization looks something like the map above.
 
-   * Create a legend that will provide context for your map data.
+- - -
 
-   * Your final visualization should look something like the map above.
+### Advanced Visualization:
+
+![5-Advanced](Images/5-Advanced.png)
+
+Here I plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity.
+To this, You will need to pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
 - - -
 
